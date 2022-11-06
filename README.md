@@ -1,5 +1,5 @@
-# Calender-app-in-C-by-ganesh-kavhar
-ganesh kavhar projects
+# Calender-app-in-C-by-Aniket-yadav
+Aniket yadav projects
 
 
 Calender app provides 4 option to users is as follows..
